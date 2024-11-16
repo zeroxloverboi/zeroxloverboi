@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Chella, you can call me as a <b>Student Developer</b> who focused on Customizing, App Creation, and Scripting. I also build Custom Modules for Rooted Android Devices.
+I'm <b>Chella</b>, you can call me as a <b>Student Developer</b> who focused on Customizing, App Creation, and Scripting. I also build Custom Modules for Rooted Android Devices.
 
 <a href="https://github.com/ilovechella/ilovechella">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=ilovechella&count_private=true&show_icons=true&theme=radical&hide_border=true" />
