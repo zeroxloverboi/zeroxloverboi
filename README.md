@@ -4,7 +4,7 @@
 <a href="https://chella-portfolio.vercel.app/">
     <img align="left" width="100" src="./images/cat1.gif">
 </a>
-<p>Hi everyone! I'm Chella, a passionate developer who enjoys creating mobile apps and customizing Android phones. I'm currently exploring the world of website development and always looking to learn new programming skills. Outside of coding, my greatest joy is spending quality time with my girlfriend (my precious kitten!). You'll often find me gaming, listening to music, or working on fun coding projects. I'm always excited to connect and collaborate with fellow developers!</p>
+<p>Hi everyone! I'm Chella, a passionate developer who enjoys creating mobile apps and customizing Android phones. I'm currently exploring the world of website development and always looking to learn new programming skills.<br>Outside of coding, my greatest joy is spending quality time with my girlfriend (my precious kitten!). You'll often find me gaming, listening to music, or working on fun coding projects. I'm always excited to connect and collaborate with fellow developers!</p>
 
 ## **📊 Github Stats**
 <p align="center">
