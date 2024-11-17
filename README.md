@@ -17,7 +17,7 @@
 <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@ilovechella?theme=rule34" alt="Chella's Cats Counter"/>
 <br><br>
-	<code>People who visit my profile. Sike, they are cats!.</code>
+	<code>People who visit my profile. Sike, they are cats!</code>
 </p>
 
 ## **🌐 Contact**
