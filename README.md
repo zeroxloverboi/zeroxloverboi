@@ -13,10 +13,11 @@
 </p>
 
 
-## **🔥 Streak Counter**
+## **🔥 Cats Counter**
 <p align="center">
-	<img src="https://count.getloli.com/@:ilovechella?theme=ai-1" alt="Chella's View Counter"/>
-
+	<img src="https://moe-counter.glitch.me/get/@ilovechella?theme=rule34" alt="Chella's Cats Counter"/>
+<br><br>
+	<code>People who visit my profile. Sike, they are cats!.</code>
 </p>
 
 ## **🌐 Contact**
