@@ -1,5 +1,3 @@
-### Hi! I'm Chella 🫶🏻
-
 ## **🧑🏻‍💻 About me**
 <a href="https://chella-portfolio.vercel.app/">
     <img align="left" width="100" src="./images/cat1.gif">
