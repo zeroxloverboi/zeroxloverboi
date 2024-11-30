@@ -2,7 +2,7 @@
 <a href="https://chella-portfolio.vercel.app/">
     <img align="left" width="100" src="./images/cat1.gif">
 </a>
-<p>Hi everyone! <b>I'm Chella</b>, your noob developer who enjoys modifying, customizing <b>Android phones</b>. I'm currently exploring the world of <b>reverse engineering</b> and always looking to learn new programming skills. Outside of coding, my greatest joy is spending quality time with my <b>girlfriend (my precious kitten!)</b>. You'll often find me gaming, listening to music, or working on fun coding projects.</p>
+<p>Hi everyone! I'm <b><i>Chella</i></b>, your noob developer who enjoys <b>modifying, customizing Android phones</b>. I'm currently exploring the world of <b>reverse engineering</b> and always looking to learn new programming skills. Outside of coding, my greatest joy is spending quality time with <b>my girlfriend (my precious kitten!)</b>. You'll often find me <b>gaming, listening to music, or working on fun coding projects</b>.</p>
 
 ## **📊 Github Stats**
 <p align="center">
