@@ -23,4 +23,4 @@
     <img align="left" width="100" src="./images/cat2.gif" />
 </a>
 
-**Please Contact me on Telegram for a quick response:** [Chella](https://t.me/ilovechella)
+**Please Contact me on Telegram for a quick response:** [Chella](https://t.me/chellaaaabot)
